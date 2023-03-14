@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm from 🇲🇬 Madagascar 🇲🇬</h1>
-<h3 align="center">INDEPENDENT BUSINESS ANALYST & DEVELOPER</h3>
+<h5 align="center">BUSINESS ANALYST & FREELANCE DEVELOPER</h5>
 
 - 🔭 I’m currently working on [FacilyPost](https://val-reco.facilypost.com)
 
