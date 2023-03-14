@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ricky BERTRAND</h1>
-<h3 align="center">A passionate design and frontend developer from Madagascar</h3>
+<h1 align="center">Hi 👋, I'm from 🇲🇬 Madagascar 🇲🇬</h1>
+<h3 align="center">INDEPENDENT BUSINESS ANALYST & DEVELOPER</h3>
 
 - 🔭 I’m currently working on [FacilyPost](https://val-reco.facilypost.com)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **ricky.madava@gmail.com**
 
