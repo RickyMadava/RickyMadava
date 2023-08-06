@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Hi 👋, I'm Ricky</h1>
 <h5 align="center">BUSINESS ANALYST & FREELANCE DEVELOPER</h5>
 
 - 🔭 I’m currently working on [FacilyPost](https://val-reco.facilypost.com)
