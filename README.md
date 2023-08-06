@@ -30,3 +30,53 @@
 
 ----
 [![MADAVA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madava)](https://github.com/RickyMadava/github-readme-stats)
+
+----
+## Recent Projects
+**[FacilyLangue](#)**
+<p>
+	<p>
+		<img alt='FacilyLangue' src='https://i.ibb.co/Nt6CPFt/project2.png'/>
+		
+<p align="center">
+		  <img alt='NestJS' src='https://img.shields.io/badge/Nestjs-ed2945?logo=nestjs&logoColor=fff&labelColor=151515&color=151515'/>
+		<img alt='Prisma' src='https://img.shields.io/badge/Prisma-0F172A?logo=prisma&logoColor=fff&labelColor=151515&color=151515'/>		
+  <img alt='React Native' src='https://img.shields.io/badge/React_Native-fff?logo=react&logoColor=fff&color=151515'/>
+  <img alt='Typescript' src='https://img.shields.io/badge/Typescript-fff?logo=Typescript&logoColor=fff&labelColor=151515&color=151515'/>
+  <img alt='Tailwindcss' src='https://img.shields.io/badge/Tailwindcss-0F172A?logo=Tailwindcss&logoColor=fff&labelColor=0F172A&color=151515'/>
+  <img alt='Native Base' src='https://img.shields.io/badge/NativeBase-090?color=151515'/>
+   <img alt='Stripe' src='https://img.shields.io/badge/NativeBase-090?logo=stripe&logoColor=fff&color=151515'/>
+</p>
+		<p>
+		A news Mobile App using the React Native, which continuously provides the latest updates and discussions from around the world.
+	This dynamic platform utilizes real-time data fetching from the REST API in NestJS , ensuring that users are constantly informed with up-to-date news content.
+		</p>
+	</p>
+</p>
+
+
+**[FacilyPost](https://reco.facilypost.com)**
+<p align="center">
+	<p>
+		<img alt='FacilyPost' src='https://i.ibb.co/KLWy4H7/project.png'/>
+		<p>
+		<p align="center">
+		  <img alt='NestJS' src='https://img.shields.io/badge/Nestjs-ed2945?logo=nestjs&logoColor=fff&labelColor=151515&color=151515'/>
+		<img alt='Prisma' src='https://img.shields.io/badge/Prisma-0F172A?logo=prisma&logoColor=fff&labelColor=151515&color=151515'/>		
+  <img alt='Next.js' src='https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=FFF&color=151515'/>
+  <img alt='Typescript' src='https://img.shields.io/badge/Typescript-fff?logo=Typescript&logoColor=fff&labelColor=151515&color=151515'/>
+  <img alt='Tailwindcss' src='https://img.shields.io/badge/Tailwindcss-0F172A?logo=Tailwindcss&logoColor=fff&labelColor=0F172A&color=151515'/>
+  <img alt='React Native' src='https://img.shields.io/badge/React_Native-fff?logo=react&logoColor=fff&color=151515'/>
+  <img alt='Native Base' src='https://img.shields.io/badge/NativeBase-090?color=151515'/>
+</p>
+		Web and mobile application. Mail tracking with acknowledgement of receipt. Facilypost offers mail services including delivery in the Oise department. In addition, Facilypost has been approved by Arcep to deliver mail with acknowledgement of receipt (AR).
+		</p>
+	</p>
+</p>
+
+## Get in Touch
+
+- 📧 Email : ricky.madava@gmail.com
+- 🔗 LinkedIn : [LinkedIn](https://www.linkedin.com/in/ricky-bertrand-ravoson-9847a5140/)
+
+Thank you for visiting my profile!
